@@ -1,7 +1,8 @@
-# Time_Series
-Time Series Forecasting
 
-### Problem: For this particular assignment, the data of different types of wine sales in the 20th century is to be analysed. Both of these data are from the same company but of different wines. As an analyst in the ABC Estate Wines, you are tasked to analyse and forecast Wine Sales in the 20th century. Data set for the Problem: Sparkling.csv and Rose.csv.
+# Time_Series Forecasting
+
+### Problem:
+For this particular assignment, the data of different types of wine sales in the 20th century is to be analysed. Both of these data are from the same company but of different wines. As an analyst in the ABC Estate Wines, you are tasked to analyse and forecast Wine Sales in the 20th century. Data set for the Problem: Sparkling.csv and Rose.csv.
 
 
 - Read the data as an appropriate Time Series data and plot the data.
